@@ -1,4 +1,4 @@
-package mallang.test;
+package mallang.missionutils.test;
 
 import java.io.ByteArrayInputStream;
 import java.io.ByteArrayOutputStream;

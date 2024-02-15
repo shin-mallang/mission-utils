@@ -1,4 +1,4 @@
-package mallang;
+package mallang.missionutils;
 
 import java.util.ArrayList;
 import java.util.Collections;

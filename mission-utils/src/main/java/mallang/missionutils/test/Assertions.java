@@ -1,6 +1,6 @@
-package mallang.test;
+package mallang.missionutils.test;
 
-import mallang.Randoms;
+import mallang.missionutils.Randoms;
 import org.junit.jupiter.api.function.Executable;
 import java.time.Duration;
 import java.util.Arrays;

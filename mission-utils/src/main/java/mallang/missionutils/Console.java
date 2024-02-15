@@ -1,4 +1,4 @@
-package mallang;
+package mallang.missionutils;
 
 import java.lang.reflect.Field;
 import java.util.Objects;
